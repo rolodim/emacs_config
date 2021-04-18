@@ -3,3 +3,4 @@
 !.gitignore
 !.emacs.bkp
 !emacs.org
+!init.el.old
